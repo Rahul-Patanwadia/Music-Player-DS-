@@ -158,7 +158,7 @@ int main()
 
     while(choice!=5)
     {
-        printf("\nPlease select an option:\n");
+        printf("\n\nPlease select an option:\n");
         printf("1. Play\n");
         printf("2. Display Playlist\n");
         printf("3. Add a song\n");
