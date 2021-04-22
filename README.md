@@ -2,3 +2,4 @@
  - C project
  - Music Player using doubly linked list 
  - Doubly Linked list helps going through the playlist efficiently
+ - Uses time.h and malloc.h header files
