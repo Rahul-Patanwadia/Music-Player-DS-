@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571928406 source:c:\rahul\c projects\musicplayer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<malloc.h>
+	<conio.h>
+
